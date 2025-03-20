@@ -69,14 +69,14 @@ Usage 🚫
 
 
 *Step 1: Installation*
-📦 Install Node.js and Axios library if not already installed.
+- 📦 Install Node.js and Axios library if not already installed.
 
 *Step 2: Run the Application*
-💻 Run the application with the command `node index.js`.
+- 💻 Run the application with the command `node index.js`.
 
 *Step 3: Enter Parameters*
-📝 Use the `--nohp` or `-n` option to enter the phone number.
-📊 Use the `--link` or `-l` option to enter the link URL.
+- 📝 Use the `--nohp` or `-n` option to enter the phone number.
+- 📊 Use the `--link` or `-l` option to enter the link URL.
 
 Example Usage 📚
 
