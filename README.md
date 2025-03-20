@@ -1,7 +1,7 @@
 Aplikasi Pengiriman DDOS ke Server Scammer 🚀
 
 
-Fitur 🎉
+# Fitur 🎉
 
 
 - 📱 Mengirimkan request POST ke server dengan parameter nomor telepon dan link URL
@@ -16,7 +16,7 @@ Cocok Untuk 😍
 - SCAMMER BCA
 - dan masih banyak lagi
 
-Penggunaan 🚫
+## Penggunaan 🚫
 
 
 *Langkah 1: Instalasi*
@@ -30,7 +30,7 @@ Penggunaan 🚫
 - 📝 Gunakan opsi `--nohp` atau `-n` untuk memasukkan nomor telepon.
 - 📊 Gunakan opsi `--link` atau `-l` untuk memasukkan link URL.
 
-Contoh Penggunaan 📚
+## Contoh Penggunaan 📚
 
 
 ```
@@ -43,24 +43,24 @@ Catatan 📝
 - 🚨 Pastikan Anda memiliki hak akses yang tepat untuk mengirimkan request ke server.
 - 🤔 Pastikan Anda memahami konsekuensi dari mengirimkan request secara berkala ke server.
 
-Lisensi 📜
+## Lisensi 📜
 
 
-Aplikasi ini menggunakan lisensi MIT. 📜
+### Aplikasi ini menggunakan lisensi MIT. 📜
 
 ---
 
-DDOS Sending Application to Scammer Server 🚀
+# DDOS Sending Application to Scammer Server 🚀
 
 
-Features 🎉
+## Features 🎉
 
 
 - 📱 Send POST requests to server with phone number and link URL parameters
 - 🤖 Use headers and cookies to facilitate requests
 - ⏰ Send requests at regular intervals of 2 seconds
 
-Usage 🚫
+## Usage 🚫
 
 
 *Step 1: Installation*
@@ -73,20 +73,20 @@ Usage 🚫
 - 📝 Use the `--nohp` or `-n` option to enter the phone number.
 - 📊 Use the `--link` or `-l` option to enter the link URL.
 
-Example Usage 📚
+## Example Usage 📚
 
 
 ```
 node index.js -n 0812-3456-6789 -l https://beri.com.diy/id
 ```
 
-Notes 📝
+## Notes 📝
 
 
 - 🚨 Make sure you have the correct access rights to send requests to the server.
 - 🤔 Make sure you understand the consequences of sending requests at regular intervals to the server.
 
-License 📜
+## License 📜
 
 
-This application uses the MIT license. 📜
+### This application uses the MIT license. 📜
