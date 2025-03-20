@@ -34,7 +34,6 @@ Contoh Penggunaan 📚
 
 
 ```
-bash
 node index.js -n 0812-3456-7890 -l https://beri.com.diy/id/
 ```
 
@@ -78,7 +77,6 @@ Example Usage 📚
 
 
 ```
-bash
 node index.js -n 0812-3456-6789 -l https://beri.com.diy/id
 ```
 
