@@ -1,14 +1,14 @@
-Aplikasi Pengiriman DDOS ke Server Scammer 🚀
+# Aplikasi Pengiriman DDOS ke Server Scammer 🚀
 
 
-# Fitur 🎉
+## Fitur 🎉
 
 
 - 📱 Mengirimkan request POST ke server dengan parameter nomor telepon dan link URL
 - 🤖 Menggunakan header dan cookie untuk memfasilitasi request
 - ⏰ Mengirimkan request secara berkala dengan interval waktu 2 detik
 
-Cocok Untuk 😍
+## Cocok Untuk 😍
 - SCAMMER DANA
 - SCAMMER OVO
 - SCAMMER GOPAY
@@ -37,7 +37,7 @@ Cocok Untuk 😍
 node index.js -n 0812-3456-7890 -l https://beri.com.diy/id/
 ```
 
-Catatan 📝
+## Catatan 📝
 
 
 - 🚨 Pastikan Anda memiliki hak akses yang tepat untuk mengirimkan request ke server.
