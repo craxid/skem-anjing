@@ -45,8 +45,7 @@ node index.js -n 0812-3456-7890 -l https://beri.com.diy/id/
 
 ## Lisensi 📜
 
-
-### Aplikasi ini menggunakan lisensi MIT. 📜
+Aplikasi ini menggunakan lisensi MIT. 📜
 
 ---
 
@@ -87,6 +86,4 @@ node index.js -n 0812-3456-6789 -l https://beri.com.diy/id
 - 🤔 Make sure you understand the consequences of sending requests at regular intervals to the server.
 
 ## License 📜
-
-
-### This application uses the MIT license. 📜
+This application uses the MIT license. 📜
