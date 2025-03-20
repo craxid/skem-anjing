@@ -20,19 +20,15 @@ Penggunaan 🚫
 
 
 *Langkah 1: Instalasi*
-
-📦 Instal Node.js dan library Axios jika belum terinstal.
+- 📦 Instal Node.js dan library Axios jika belum terinstal.
 
 
 *Langkah 2: Jalankan Aplikasi*
-
-💻 Jalankan aplikasi dengan perintah `node index.js`.
+- 💻 Jalankan aplikasi dengan perintah `node index.js`.
 
 *Langkah 3: Masukkan Parameter*
-
-📝 Gunakan opsi `--nohp` atau `-n` untuk memasukkan nomor telepon.
-
-📊 Gunakan opsi `--link` atau `-l` untuk memasukkan link URL.
+- 📝 Gunakan opsi `--nohp` atau `-n` untuk memasukkan nomor telepon.
+- 📊 Gunakan opsi `--link` atau `-l` untuk memasukkan link URL.
 
 Contoh Penggunaan 📚
 
