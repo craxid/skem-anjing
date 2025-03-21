@@ -34,7 +34,7 @@ app.post('/', async (req, res) => {
 
     console.log('Response Code:', response.status);
     console.log('Response Data:', response.data);
-    res.send(`Sukses! Response Code: ${response.status}, Data: ${JSON.stringify(response.data)}`);
+    res.send(`BERHASIL! Response Code: ${response.status}, Data: ${JSON.stringify(response.data)}`);
   } catch (error) {
     console.error(error);
     res.status(500).send(`Error: ${error.message}`);
