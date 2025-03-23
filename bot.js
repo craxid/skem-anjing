@@ -34,10 +34,23 @@ const fetchData = async () => {
       nohp: `${argv.nohp}`,
     });
 
-    const response = await axios.post(`${argv.link}`, params, { headers });
+    const response = await axios.post(`${argv.link}`, params, {
+      headers
+    });
 
-    console.log('Response Code:', response.status);
-    console.log('Response Data:', response.data);
+    let color;
+    if (response.status === 200) {
+      color = '\x1b[32m'; // hijau
+    } else if (response.status >= 500 && response.status < 600) {
+      color = '\x1b[33m'; // kuning
+    } else {
+      color = '\x1b[0m'; // default
+    }
+
+    const resetColor = '\x1b[0m';
+
+    console.log(`Response Code: ${color}${response.status}${resetColor}`);
+    console.log(`Response Data: ${color}${response.data}${resetColor}`);
   } catch (error) {
     console.error(error);
   }
